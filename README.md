@@ -1,6 +1,46 @@
 # Hi there, I'm Jan Andreiiii! 👋
 
-![Profile views](https://gpvc.arturio.dev/janandreiiii)
+It looks like the service you tried to use for tracking profile views is currently unavailable. As an alternative, you can use a different service to track profile views or simply omit this feature.
+
+### Alternative Profile View Counter
+
+You can use a GitHub profile view counter from [shields.io](https://shields.io/). Here's how you can integrate it into your README:
+
+1. Replace the broken profile views badge link with a new one from shields.io.
+
+2. Update your README.md with the new badge URL.
+
+Here's the revised README.md content:
+
+```markdown
+# Hi there, I'm Jan Andreiiii! 👋
+
+![Profile views](https://img.shields.io/badge/Profile%20views-0-blue)
+
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. I love exploring new technologies, contributing to open-source projects, and constantly improving my skills. Here you'll find a collection of my projects, contributions, and things I'm working on.
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **[specific technology or skill you're learning]**
+- 💬 Ask me about **web development, machine learning, or any tech-related topic**
+- 📫 How to reach me: **[your email address]**
+- ⚡ Fun fact: **[a fun fact about you]**
+
+## 🛠️ Skills
+
+- **Languages**: JavaScript, Python, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js, Express
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code, Postman
+- **Others**: Machine Learning, Data Analysis, REST APIs
+
+## 📈 GitHub Stats
+
+![Jan Andreiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=janandreiiii&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreiiii&layout=compact&theme=rad
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. I love exploring new technologies, contributing to open-source projects, and constantly improving my skills. Here you'll find a collection of my projects, contributions, and things I'm working on.
 
