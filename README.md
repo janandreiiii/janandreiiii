@@ -1,6 +1,8 @@
 # Hi there, I'm Jan Andreiiii! 👋
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=janandreiiii)
+![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-yes-brightgreen)
+
 
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. I love exploring new technologies, contributing to open-source projects, and constantly improving my skills. Here you'll find a collection of my projects, contributions, and things I'm working on.
